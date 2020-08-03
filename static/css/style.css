@@ -1,0 +1,85 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+#magsel{
+  font-size: xx-large;
+  background-color: rgb(5,7,12);
+  color: cornsilk;
+  text-align:center middle;
+  position: absolute;
+  padding-left: 1em;
+}
+
+#stylebar{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 5vw;
+  width: max-content;
+  margin: 0;
+  padding: 0;
+}
+
+.optionSel{
+  background-color:rgb(5, 7, 12);
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  margin: 0;
+  padding:0;
+  border:0
+
+}
+
+#divbar{
+  clear:both;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  background-image:url("https://qttabbar.wikidot.com/local--files/uploadable:skins/ToolbarSkin%20onno1.jpg");
+  position: relative
+  
+}
+
+#divbar2{
+  position: relative;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  padding: 10px;
+}
+
+#headbar{
+  clear:both;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-bottom: 0em;
+  border-spacing: 0em;
+  background-image:url("https://qttabbar.wikidot.com/local--files/uploadable:skins/ToolbarSkin%20onno1.jpg");
+  position: relative
+  
+}
+
+h1 {
+  padding:0;
+  margin:0;
+ }
